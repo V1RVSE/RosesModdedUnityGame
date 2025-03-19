@@ -410,8 +410,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 940264546}
-  fleeSpeed: 2.5
-  detectionRange: 3
+  fleeSpeed: 6
+  detectionRange: 4
 --- !u!114 &959413638
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -470,7 +470,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 940264546}
-  speed: 2
+  speed: 4
 --- !u!50 &1067875901
 Rigidbody2D:
   serializedVersion: 5
